@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+    margin: 3rem auto;
+    text-transform: capitalize;
+    font-size: 4rem;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+#canvas {
+    /* border: 1px solid black; */
+    width: 960px;
+    height: 540px;
+    background-color: yellow;
+}
